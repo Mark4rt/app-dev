@@ -1,5 +1,5 @@
 
-# =============== My Favorite Movies ===============
+# ================ My Favorite Movies ================
 <ol>
   <li><strong>Princess Mononoke</strong></li>
   
